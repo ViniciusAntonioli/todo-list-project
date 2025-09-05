@@ -50,3 +50,11 @@ Click Delete to remove a task from the list.
 
 Finished tasks will display a different emoji and style.
 
+Project images
+
+<img width="1524" height="718" alt="image" src="https://github.com/user-attachments/assets/369c07da-e482-432d-bbe1-fedb7df238a8" />
+<img width="1453" height="619" alt="image" src="https://github.com/user-attachments/assets/474c4c8d-05a9-4ee8-ac57-b4e05e517cee" />
+<img width="470" height="490" alt="image" src="https://github.com/user-attachments/assets/007d07a7-41a7-4358-9adc-977e539b26a5" />
+
+
+
